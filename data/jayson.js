@@ -117,7 +117,6 @@ async function alltimelow(){
     }
 }  
 
-alltimelow()
 
 function userItems (){
     var person = prompt.get(['steamid'],(err,result)=>{                                 //input to retrieve specific user profile
