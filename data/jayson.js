@@ -1,5 +1,6 @@
-//Entire file made by Arnoldas, functions made to retrieve data from a public Steam API endpoint and stored to a JSON file, aswell as databased.
-
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Entire file made by Arnoldas, functions made to retrieve data from a public Steam API endpoint and stored to a JSON file, aswell as stored in databases.
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 
@@ -27,36 +28,36 @@ userdb.loadDatabase();
 
 
 async function maininfo (){
-    const somedata1 = await fetch('https://scmm.app/api/market/stat/profitableFlips?count=53')
-    console.log(somedata1.status)
-    const data1 = await somedata1.json()
-    const items = data1.items
-    items.forEach(async(items)=>{
-        calculated = items.buyNowPrice - items.buyAskingPrice
+    const somedata1 = await fetch('https://scmm.app/api/market/stat/profitableFlips?count=53')  //fetching data from an API endpoint
+    console.log(somedata1.status)                                                               //checking to see if the status is 200
+    const data1 = await somedata1.json()                                                        //changing the data to JSON format
+    const items = data1.items                                                                   //storing the object property items into another variable for later use
+    items.forEach(async(items)=>{                                                               //appending a timestamp property to each object in the items list, for later use when comparing their prices 
+        calculated = items.buyNowPrice - items.buyAskingPrice                                   //calculating the estimated profit for each item and storing that profit into each object as their own property
         items.calculated = calculated
         var timestamp = Date.now()
         items.timestamp = timestamp
     })
-    maininfodb.insert(items)
-    var data2 = JSON.stringify(items, null, 2)
-    if(data.length!==0){
+    maininfodb.insert(items)                                                                    //inserting the cleaned up data into the database
+    var data2 = JSON.stringify(items, null, 2)                                                  //stringifying the data so that we can store it into a JSON file
+    if(data.length!==0){                                                                        //checking to see if the file has any data in it, if not insert the data
         fs.writeFile('items.json', '', (err)=>{
             if(err){
                 console.log(err)
             }else{
                 console.log(' Main data has been deleted')
-            }
-        })
-    }else{
-        fs.writeFile('items.json', data2, (err)=>{
-            if(err){
-                console.log(err)
-            }else{
-                console.log('Main data has been added')
+                fs.writeFile('items.json', data2, (err)=>{
+                    if(err){
+                        console.log(err)
+                    }else{
+                        console.log('Main data has been added')
+                    }
+                })
             }
         })
     }
 }  
+
 
 
 async function alltimehigh(){
@@ -75,16 +76,15 @@ async function alltimehigh(){
                 console.log(err)
             }else{
                 console.log('All time high data has been deleted')
-            }
-        })
-    }else{
-        fs.writeFile('alltimehigh.json', stringed, (err)=>{
-            if(err){
-                console.log(err)
-            }else{
-                console.log('All time high data has been added')
-                var parsed = JSON.parse(stringed)
-                
+                fs.writeFile('alltimehigh.json', stringed, (err)=>{
+                    if(err){
+                        console.log(err)
+                    }else{
+                        console.log('All time high data has been added')
+                        var parsed = JSON.parse(stringed)
+                        
+                    }
+                })
             }
         })
     }
@@ -108,14 +108,13 @@ async function alltimelow(){
                 console.log(err)
             }else{
                 console.log('All time low data has been deleted')
-            }
-        })
-    }else{
-        fs.writeFile('alltimelow.json', stringed, (err)=>{
-            if(err){
-                console.log(err)
-            }else{
-                console.log('All time low data has been added')
+                fs.writeFile('alltimelow.json', stringed, (err)=>{
+                    if(err){
+                        console.log(err)
+                    }else{
+                        console.log('All time low data has been added')
+                    }
+                })
             }
         })
     }
@@ -144,14 +143,9 @@ function userItems (){
                 if(useritems1.length !==0){
                     const stringed = JSON.stringify(data, null, 2)
                     fs.writeFile('useritems.json', '', (err)=>console.log(err))
-                    console.log('Data of the specific user has been deleted')}
-                    
-                else{
-                    const stringed = JSON.stringify(data, null, 2)
                     fs.writeFile('useritems.json', stringed, (err)=>console.log(err))
                     console.log('Data of the specific user has been added')
-                }
-            })
+            }})
             .catch(err=>{
                 if(err)console.log('Incorrect steam user id')
                 
@@ -161,7 +155,8 @@ function userItems (){
     )
     }
 
-maininfo()
+userItems()
+
 module.exports = maininfo;
 
 

@@ -6,24 +6,6 @@
       "cultureName": "en-US",
       "scale": 2
     },
-    "buyNowPrice": 21929,
-    "buyAskingPrice": 15299,
-    "steamId": "2059973719",
-    "steamAppId": "252490",
-    "name": "Tempered Mask",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#a7ec2e",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe5GrHfCk4nReh8DEiv5dePqE9pbM-hjc1ju8",
-    "calculated": 6630,
-    "timestamp": 1618873965245
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
     "buyNowPrice": 21872,
     "buyAskingPrice": 16409,
     "steamId": "1367093878",
@@ -33,7 +15,7 @@
     "foregroundColour": "#35a3f1",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Je5WLMfCk4nReh8DEiv5dYOqg7qbE_Q_i9nbxymqo",
     "calculated": 5463,
-    "timestamp": 1618873965245
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -51,7 +33,25 @@
     "foregroundColour": "#a7ec2e",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Je5WPEfCk4nReh8DEiv5dYP6s6rb0zRvC73XoJZIs",
     "calculated": 2385,
-    "timestamp": 1618873965245
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 9998,
+    "buyAskingPrice": 7702,
+    "steamId": "2079387947",
+    "steamAppId": "252490",
+    "name": "Frostbite",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#a7ec2e",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe5mLBfCk4nReh8DEiv5dbMa4-qL0xR_C29fO3tCQ",
+    "calculated": 2296,
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -69,25 +69,7 @@
     "foregroundColour": "#a7ec2e",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe5GLMfCk4nReh8DEiv5dbPKs8rrYwQfy6sqLM0vo",
     "calculated": 2705,
-    "timestamp": 1618873965245
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 9815,
-    "buyAskingPrice": 7700,
-    "steamId": "2079387947",
-    "steamAppId": "252490",
-    "name": "Frostbite",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#a7ec2e",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe5mLBfCk4nReh8DEiv5dbMa4-qL0xR_C29fO3tCQ",
-    "calculated": 2115,
-    "timestamp": 1618873965246
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -105,7 +87,7 @@
     "foregroundColour": "#f15840",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe5WLMfCk4nReh8DEiv5daO6o2r7MxR_69q4Sc-ZY",
     "calculated": 1375,
-    "timestamp": 1618873965246
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -123,61 +105,7 @@
     "foregroundColour": "#a7ec2e",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe5GbFfCk4nReh8DEiv5dfMa03qrY_t3a258g",
     "calculated": 1288,
-    "timestamp": 1618873965246
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 4617,
-    "buyAskingPrice": 3373,
-    "steamId": "2192298425",
-    "steamAppId": "252490",
-    "name": "Soviet Carpet",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#35a3f1",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Ff52PBfCk4nReh8DEiv5dYOKA9rrU0Qvu8493t8aw",
-    "calculated": 1244,
-    "timestamp": 1618873965246
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 3073,
-    "buyAskingPrice": 2068,
-    "steamId": "2578848885",
-    "steamAppId": "252490",
-    "name": "Daemon Strike",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#f15840",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fa42LAfCk4nReh8DEiv5dbP6w4rLw1Sf-6lEb3sEc",
-    "calculated": 1005,
-    "timestamp": 1618873965246
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 5894,
-    "buyAskingPrice": 4536,
-    "steamId": "2059973708",
-    "steamAppId": "252490",
-    "name": "Incarceration Armored Door",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#35a3f1",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe5GbAfCk4nReh8DEiv5ddOKE5qrMwR_m5yHmbiAk",
-    "calculated": 1358,
-    "timestamp": 1618873965246
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -195,7 +123,79 @@
     "foregroundColour": "#a7ec2e",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe5GPFfCk4nReh8DEiv5dYOKk3q7IySfG2zVixGH4",
     "calculated": 1116,
-    "timestamp": 1618873965246
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 4457,
+    "buyAskingPrice": 3371,
+    "steamId": "2192298425",
+    "steamAppId": "252490",
+    "name": "Soviet Carpet",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#35a3f1",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Ff52PBfCk4nReh8DEiv5dYOKA9rrU0Qvu8493t8aw",
+    "calculated": 1086,
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 6494,
+    "buyAskingPrice": 5174,
+    "steamId": "2108798805",
+    "steamAppId": "252490",
+    "name": "Stainless Facemask",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#a7ec2e",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe4WPBfCk4nReh8DEiv5dYMKs4qbA0Q_25VDf9Y2M",
+    "calculated": 1320,
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 5310,
+    "buyAskingPrice": 4159,
+    "steamId": "2108798795",
+    "steamAppId": "252490",
+    "name": "Shard of True Ice",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#f15840",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe4WLMfCk4nReh8DEiv5dbO6o7rrMwQPy59FTZYoM",
+    "calculated": 1151,
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 2817,
+    "buyAskingPrice": 2021,
+    "steamId": "2059973709",
+    "steamAppId": "252490",
+    "name": "High Voltage",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#35a3f1",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe5GbDfCk4nReh8DEiv5dYOKE3pLMzR_G-oOzpBc0",
+    "calculated": 796,
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -213,25 +213,7 @@
     "foregroundColour": "#a7ec2e",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Ff42LGfCk4nReh8DEiv5dbP6g4q7U0Qv-28Doo0o8",
     "calculated": 853,
-    "timestamp": 1618873965246
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 1997,
-    "buyAskingPrice": 1336,
-    "steamId": "3002259839",
-    "steamAppId": "252490",
-    "name": "Dragon Glass Stone Pickaxe",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#f15840",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835FW7WLHfCk4nReh8DEiv5dbPKE8qbQ0Q_m38pT4s1M",
-    "calculated": 661,
-    "timestamp": 1618873965246
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -249,7 +231,7 @@
     "foregroundColour": "#35a3f1",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Ff4WPGfCk4nReh8DEiv5daPas2r7wzRfC8k7EPfeE",
     "calculated": 684,
-    "timestamp": 1618873965246
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -258,16 +240,34 @@
       "cultureName": "en-US",
       "scale": 2
     },
-    "buyNowPrice": 4431,
-    "buyAskingPrice": 3511,
+    "buyNowPrice": 3104,
+    "buyAskingPrice": 2302,
+    "steamId": "2808504635",
+    "steamAppId": "252490",
+    "name": "Brony Hoodie",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#a7ec2e",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835FZ4GPEfCk4nReh8DEiv5dRMak2qbY1R_g5wew4DA",
+    "calculated": 802,
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 4410,
+    "buyAskingPrice": 3496,
     "steamId": "2620553417",
     "steamAppId": "252490",
     "name": "Polymer SMG",
     "backgroundColour": "#42413e",
     "foregroundColour": "#f15840",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fb5WLNfCk4nReh8DEiv5dYPq47q7EzRPC6pum2D6Q",
-    "calculated": 920,
-    "timestamp": 1618873965246
+    "calculated": 914,
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -285,7 +285,7 @@
     "foregroundColour": "#f15840",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fa5WLDfCk4nReh8DEiv5daO607rbY_QPy4t6BcUcA",
     "calculated": 438,
-    "timestamp": 1618873965246
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -303,7 +303,7 @@
     "foregroundColour": "#a7ec2e",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Je5GbGfCk4nReh8DEiv5ddOqg4rLAxR_nWH3NfkA",
     "calculated": 409,
-    "timestamp": 1618873965246
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -312,16 +312,34 @@
       "cultureName": "en-US",
       "scale": 2
     },
-    "buyNowPrice": 896,
-    "buyAskingPrice": 480,
+    "buyNowPrice": 2081,
+    "buyAskingPrice": 1479,
+    "steamId": "2039192416",
+    "steamAppId": "252490",
+    "name": "Sacrificial Mask",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#a7ec2e",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe5GPGfCk4nReh8DEiv5dcPag6qrIwQPHz222JoQ",
+    "calculated": 602,
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 917,
+    "buyAskingPrice": 482,
     "steamId": "2501948622",
     "steamAppId": "252490",
     "name": "Rocket Scrap Salvaged Pickaxe",
     "backgroundColour": "#42413e",
     "foregroundColour": "#f15840",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fd7WLHfCk4nReh8DEiv5dYPqE9pbc3Qfq7UA7xxZI",
-    "calculated": 416,
-    "timestamp": 1618873965246
+    "calculated": 435,
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -339,7 +357,7 @@
     "foregroundColour": "#35a3f1",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835FZ5mLDfCk4nReh8DEiv5dYMas_q7Q_QPC3KsdH__c",
     "calculated": 602,
-    "timestamp": 1618873965246
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -357,7 +375,43 @@
     "foregroundColour": "#a7ec2e",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fa5GLHfCk4nReh8DEiv5daPak9q7cxRP69jeax5C0",
     "calculated": 417,
-    "timestamp": 1618873965246
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 2578,
+    "buyAskingPrice": 1972,
+    "steamId": "4048426364",
+    "steamAppId": "252490",
+    "name": "Skull Trophy",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#35a3f1",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Je5WrHfCk4nReh8DEiv5dYO6o-qL0ySP68ial2Fmk",
+    "calculated": 606,
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 2700,
+    "buyAskingPrice": 2081,
+    "steamId": "2210500191",
+    "steamAppId": "252490",
+    "name": "The Plague Doctor",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#a7ec2e",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Ff4WLGfCk4nReh8DEiv5daMKs6r7QyR_C52FLQZIg",
+    "calculated": 619,
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -375,7 +429,25 @@
     "foregroundColour": "#f15840",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fa42PFfCk4nReh8DEiv5ddO6A2r7U_QPq2t7DKgI4",
     "calculated": 355,
-    "timestamp": 1618873965246
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 3755,
+    "buyAskingPrice": 3014,
+    "steamId": "3572671620",
+    "steamAppId": "252490",
+    "name": "Double Door from Hell",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#35a3f1",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Ba7GLFfCk4nReh8DEiv5dbMKk5qbQ0Qf-55ZAmA6I",
+    "calculated": 741,
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -393,43 +465,7 @@
     "foregroundColour": "#f15840",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835FZ42PEfCk4nReh8DEiv5daMK04qrE3Sfq7H9TR-Bo",
     "calculated": 344,
-    "timestamp": 1618873965246
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 2229,
-    "buyAskingPrice": 1694,
-    "steamId": "1335955954",
-    "steamAppId": "252490",
-    "name": "Skeleton Hoodie",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#a7ec2e",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Je5GrDfCk4nReh8DEiv5dROqE9rrU-R_DrkyGL_Q",
-    "calculated": 535,
-    "timestamp": 1618873965246
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 3681,
-    "buyAskingPrice": 2959,
-    "steamId": "2567835224",
-    "steamAppId": "252490",
-    "name": "Glorious AK",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#f15840",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fa4mLMfCk4nReh8DEiv5dbOq82q7YzRPy3rTS0Oyg",
-    "calculated": 722,
-    "timestamp": 1618873965246
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -447,7 +483,7 @@
     "foregroundColour": "#a7ec2e",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe5GrNfCk4nReh8DEiv5daMK0_rLE-RPC2atl_2RA",
     "calculated": 541,
-    "timestamp": 1618873965246
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -456,16 +492,34 @@
       "cultureName": "en-US",
       "scale": 2
     },
-    "buyNowPrice": 2909,
-    "buyAskingPrice": 2307,
-    "steamId": "2808504635",
+    "buyNowPrice": 1384,
+    "buyAskingPrice": 963,
+    "steamId": "2479022786",
     "steamAppId": "252490",
-    "name": "Brony Hoodie",
+    "name": "Wild Tiger MP5",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#f15840",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fd42LCfCk4nReh8DEiv5dYPak7pLw_RPy237dG35I",
+    "calculated": 421,
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 2225,
+    "buyAskingPrice": 1700,
+    "steamId": "1335955954",
+    "steamAppId": "252490",
+    "name": "Skeleton Hoodie",
     "backgroundColour": "#42413e",
     "foregroundColour": "#a7ec2e",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835FZ4GPEfCk4nReh8DEiv5dRMak2qbY1R_g5wew4DA",
-    "calculated": 602,
-    "timestamp": 1618873965246
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Je5GrDfCk4nReh8DEiv5dROqE9rrU-R_DrkyGL_Q",
+    "calculated": 525,
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -474,16 +528,106 @@
       "cultureName": "en-US",
       "scale": 2
     },
-    "buyNowPrice": 876,
-    "buyAskingPrice": 544,
+    "buyNowPrice": 1348,
+    "buyAskingPrice": 942,
+    "steamId": "2192298429",
+    "steamAppId": "252490",
+    "name": "Frostbitten Revolver",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#f15840",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Ff52PNfCk4nReh8DEiv5dbP6A8qr0-Q_G2Z9V8V0g",
+    "calculated": 406,
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 2759,
+    "buyAskingPrice": 2171,
+    "steamId": "4169256917",
+    "steamAppId": "252490",
+    "name": "Neon Sign Pack",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#35a3f1",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net/economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Je5WrNfCk4nReh8DEiv5dYMa4_r7M-Sf-60et-q4Y",
+    "calculated": 588,
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 2559,
+    "buyAskingPrice": 1999,
+    "steamId": "4018059929",
+    "steamAppId": "252490",
+    "name": "Spacesuit",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#35a3f1",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Je5WrFfCk4nReh8DEiv5daPaw3r7A0Qvm4u5MS7B4",
+    "calculated": 560,
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 492,
+    "buyAskingPrice": 208,
+    "steamId": "2591897905",
+    "steamAppId": "252490",
+    "name": "Twisted Pipe",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#f15840",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fa7GLHfCk4nReh8DEiv5daMKE6pbUyRPtn8QWpMw",
+    "calculated": 284,
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 1495,
+    "buyAskingPrice": 1086,
+    "steamId": "2079387949",
+    "steamAppId": "252490",
+    "name": "Christmas Tree Door",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#35a3f1",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe5mLDfCk4nReh8DEiv5dcPK05rLI2RPuLfkn8lA",
+    "calculated": 409,
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 872,
+    "buyAskingPrice": 546,
     "steamId": "2164996054",
     "steamAppId": "252490",
     "name": "Nitro-Maniac DBS",
     "backgroundColour": "#42413e",
     "foregroundColour": "#f15840",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Ff5GLAfCk4nReh8DEiv5dbPq82rrI_Rvu2BxpQpOs",
-    "calculated": 332,
-    "timestamp": 1618873965246
+    "calculated": 326,
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -492,70 +636,34 @@
       "cultureName": "en-US",
       "scale": 2
     },
-    "buyNowPrice": 1562,
-    "buyAskingPrice": 1142,
+    "buyNowPrice": 1720,
+    "buyAskingPrice": 1288,
+    "steamId": "2173983529",
+    "steamAppId": "252490",
+    "name": "Rox Black Vending Machine",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#35a3f1",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Ff5WPHfCk4nReh8DEiv5dYMKo8r7IzR_-7Htig_9A",
+    "calculated": 432,
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 1552,
+    "buyAskingPrice": 1148,
     "steamId": "3194206047",
     "steamAppId": "252490",
     "name": "Bandit Rug",
     "backgroundColour": "#42413e",
     "foregroundColour": "#35a3f1",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Bf52LCfCk4nReh8DEiv5dbOak8qLU-Qvy3KsFI-eU",
-    "calculated": 420,
-    "timestamp": 1618873965246
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 1247,
-    "buyAskingPrice": 883,
-    "steamId": "2696458186",
-    "steamAppId": "252490",
-    "name": "Stinger Icepick",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#f15840",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835FY5GPFfCk4nReh8DEiv5ddOaE8pbM3SPCYm-1Csw",
-    "calculated": 364,
-    "timestamp": 1618873965246
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 2678,
-    "buyAskingPrice": 2129,
-    "steamId": "2059973709",
-    "steamAppId": "252490",
-    "name": "High Voltage",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#35a3f1",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe5GbDfCk4nReh8DEiv5dYOKE3pLMzR_G-oOzpBc0",
-    "calculated": 549,
-    "timestamp": 1618873965246
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 830,
-    "buyAskingPrice": 522,
-    "steamId": "2591897907",
-    "steamAppId": "252490",
-    "name": "Saboteur Rifle",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#f15840",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fa7GLBfCk4nReh8DEiv5dbOa87q7c_R_G-JPEz6k8",
-    "calculated": 308,
-    "timestamp": 1618873965246
+    "calculated": 404,
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -573,7 +681,7 @@
     "foregroundColour": "#a7ec2e",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe5GPNfCk4nReh8DEiv5ddOa08rLAxRfi66w_Qh7g",
     "calculated": 442,
-    "timestamp": 1618873965246
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -582,115 +690,7 @@
       "cultureName": "en-US",
       "scale": 2
     },
-    "buyNowPrice": 1072,
-    "buyAskingPrice": 736,
-    "steamId": "2306094331",
-    "steamAppId": "252490",
-    "name": "Leather Boonie Hat",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#a7ec2e",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fc4WLEfCk4nReh8DEiv5daMas3pLQ0Qvu2haxYet4",
-    "calculated": 336,
-    "timestamp": 1618873965246
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 3413,
-    "buyAskingPrice": 2776,
-    "steamId": "1532694712",
-    "steamAppId": "252490",
-    "name": "Tempered AK47",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#f15840",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Je5WHNfCk4nReh8DEiv5dYO607rLc2Rv2_0wEIAYs",
-    "calculated": 637,
-    "timestamp": 1618873965246
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 2410,
-    "buyAskingPrice": 1908,
-    "steamId": "2154008107",
-    "steamAppId": "252490",
-    "name": "Heat Double Shotgun",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#f15840",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe7WPEfCk4nReh8DEiv5dbPq09pb01SfC3uU4mheY",
-    "calculated": 502,
-    "timestamp": 1618873965246
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 1324,
-    "buyAskingPrice": 965,
-    "steamId": "2771329059",
-    "steamAppId": "252490",
-    "name": "Mystic AK47",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#f15840",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835FY7WPFfCk4nReh8DEiv5dbOaE2q700Qvq2BeUvXjg",
-    "calculated": 359,
-    "timestamp": 1618873965246
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 1483,
-    "buyAskingPrice": 1110,
-    "steamId": "3137429553",
-    "steamAppId": "252490",
-    "name": "Batteries Not Included",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#f15840",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Be4mPEfCk4nReh8DEiv5dYMK8_qLYwSPu5vjW8JMs",
-    "calculated": 373,
-    "timestamp": 1618873965246
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 1058,
-    "buyAskingPrice": 747,
-    "steamId": "2126396713",
-    "steamAppId": "252490",
-    "name": "Uprising Hide Pants",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#a7ec2e",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe42LNfCk4nReh8DEiv5dYOKA4r7wwQPu7nOkjnm0",
-    "calculated": 311,
-    "timestamp": 1618873965246
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 1626,
+    "buyNowPrice": 1654,
     "buyAskingPrice": 1242,
     "steamId": "2628155994",
     "steamAppId": "252490",
@@ -698,8 +698,116 @@
     "backgroundColour": "#42413e",
     "foregroundColour": "#35a3f1",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fb5mLDfCk4nReh8DEiv5dbP6o9rLY1Rfq8TkyVrZ0",
-    "calculated": 384,
-    "timestamp": 1618873965246
+    "calculated": 412,
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 826,
+    "buyAskingPrice": 525,
+    "steamId": "2591897907",
+    "steamAppId": "252490",
+    "name": "Saboteur Rifle",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#f15840",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fa7GLBfCk4nReh8DEiv5dbOa87q7c_R_G-JPEz6k8",
+    "calculated": 301,
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 960,
+    "buyAskingPrice": 653,
+    "steamId": "2343419415",
+    "steamAppId": "252490",
+    "name": "Sacrificial Knife",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#f15840",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fc7GLMfCk4nReh8DEiv5dYPa86pbE-RPG6qO5tLJ0",
+    "calculated": 307,
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 1727,
+    "buyAskingPrice": 1323,
+    "steamId": "2764716540",
+    "steamAppId": "252490",
+    "name": "Urban Night Door",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#35a3f1",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835FY7GLMfCk4nReh8DEiv5dYO6s6rL0_Qf6-L01OlS0",
+    "calculated": 404,
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 1053,
+    "buyAskingPrice": 738,
+    "steamId": "2306094331",
+    "steamAppId": "252490",
+    "name": "Leather Boonie Hat",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#a7ec2e",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fc4WLEfCk4nReh8DEiv5daMas3pLQ0Qvu2haxYet4",
+    "calculated": 315,
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 2800,
+    "buyAskingPrice": 2266,
+    "steamId": "2331329490",
+    "steamAppId": "252490",
+    "name": "Yellow Police Jacket",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#a7ec2e",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fc42PAfCk4nReh8DEiv5dbMa05qLwxRP-5VPPLj8I",
+    "calculated": 534,
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 1471,
+    "buyAskingPrice": 1110,
+    "steamId": "3137429553",
+    "steamAppId": "252490",
+    "name": "Batteries Not Included",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#f15840",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Be4mPEfCk4nReh8DEiv5dYMK8_qLYwSPu5vjW8JMs",
+    "calculated": 361,
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -717,7 +825,7 @@
     "foregroundColour": "#a7ec2e",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835FW42LAfCk4nReh8DEiv5daMKE8rbE2R_G462s8O2U",
     "calculated": 254,
-    "timestamp": 1618873965246
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -735,25 +843,7 @@
     "foregroundColour": "#a7ec2e",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe5WLHfCk4nReh8DEiv5dRO6g-qbQ2Rf-UeDU9yw",
     "calculated": 221,
-    "timestamp": 1618873965246
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 1504,
-    "buyAskingPrice": 1145,
-    "steamId": "2306094339",
-    "steamAppId": "252490",
-    "name": "Army Black Boots",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#a7ec2e",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fc4WLNfCk4nReh8DEiv5daPaE_q7wxQf-3P8-oY30",
-    "calculated": 359,
-    "timestamp": 1618873965246
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -771,7 +861,7 @@
     "foregroundColour": "#a7ec2e",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe5GDBfCk4nReh8DEiv5dYPa44pbE2Rfi4rEJtjOg",
     "calculated": 455,
-    "timestamp": 1618873965246
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -789,7 +879,7 @@
     "foregroundColour": "#a7ec2e",
     "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fd42LEfCk4nReh8DEiv5dYOq49q702Qvm3ap8d6gA",
     "calculated": 262,
-    "timestamp": 1618873965246
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -798,16 +888,16 @@
       "cultureName": "en-US",
       "scale": 2
     },
-    "buyNowPrice": 3377,
-    "buyAskingPrice": 2790,
-    "steamId": "3076997567",
+    "buyNowPrice": 881,
+    "buyAskingPrice": 603,
+    "steamId": "2686997953",
     "steamAppId": "252490",
-    "name": "Cold Hunter LR 300",
+    "name": "Midway LR300",
     "backgroundColour": "#42413e",
     "foregroundColour": "#f15840",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835FX7GLNfCk4nReh8DEiv5dbOKk9pbA-Rf26j1uMcgA",
-    "calculated": 587,
-    "timestamp": 1618873965246
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fb7WLGfCk4nReh8DEiv5dYOKk6pLUzRvG8iaP1RLc",
+    "calculated": 278,
+    "timestamp": 1618907342731
   },
   {
     "currency": {
@@ -816,141 +906,51 @@
       "cultureName": "en-US",
       "scale": 2
     },
-    "buyNowPrice": 1160,
-    "buyAskingPrice": 863,
-    "steamId": "2578848951",
+    "buyNowPrice": 1270,
+    "buyAskingPrice": 949,
+    "steamId": "2049433506",
     "steamAppId": "252490",
-    "name": "Defense Garage Door",
+    "name": "Cutoff Shorts",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#a7ec2e",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe5GHFfCk4nReh8DEiv5dYOK09pbU3Sfu48FZAM90",
+    "calculated": 321,
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 950,
+    "buyAskingPrice": 671,
+    "steamId": "2749888235",
+    "steamAppId": "252490",
+    "name": "Crypt of Death AK47",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#f15840",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835FY4mPGfCk4nReh8DEiv5daPag2qLU_R_u6eBD4wAc",
+    "calculated": 279,
+    "timestamp": 1618907342731
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "buyNowPrice": 1101,
+    "buyAskingPrice": 804,
+    "steamId": "2918697127",
+    "steamAppId": "252490",
+    "name": "Cursed Pirate Garage Door",
     "backgroundColour": "#42413e",
     "foregroundColour": "#35a3f1",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fa42PGfCk4nReh8DEiv5dYP6E6pLQ3RP25cm_f-7w",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835FW5mLNfCk4nReh8DEiv5daPK05qrc-SPC5hcV_nFA",
     "calculated": 297,
-    "timestamp": 1618873965246
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 1148,
-    "buyAskingPrice": 854,
-    "steamId": "3186726884",
-    "steamAppId": "252490",
-    "name": "Valentine MP5",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#f15840",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Bf5mLAfCk4nReh8DEiv5deOaE2qbcyQfHgLiIWPw",
-    "calculated": 294,
-    "timestamp": 1618873965246
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 1932,
-    "buyAskingPrice": 1537,
-    "steamId": "2220393884",
-    "steamAppId": "252490",
-    "name": "Workman's Safety Hat",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#a7ec2e",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Ff4mPAfCk4nReh8DEiv5dQOKs8pLI1Q_i2LBowrA",
-    "calculated": 395,
-    "timestamp": 1618873965246
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 289,
-    "buyAskingPrice": 109,
-    "steamId": "2660195956",
-    "steamAppId": "252490",
-    "name": "Explorer Hoodie",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#a7ec2e",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fb4mLAfCk4nReh8DEiv5ddOKE9q703RPy58zZpe6o",
-    "calculated": 180,
-    "timestamp": 1618873965246
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 2812,
-    "buyAskingPrice": 2307,
-    "steamId": "2331329490",
-    "steamAppId": "252490",
-    "name": "Yellow Police Jacket",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#a7ec2e",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fc42PAfCk4nReh8DEiv5dbMa05qLwxRP-5VPPLj8I",
-    "calculated": 505,
-    "timestamp": 1618873965246
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 2002,
-    "buyAskingPrice": 1604,
-    "steamId": "2558917153",
-    "steamAppId": "252490",
-    "name": "Survivor BAR",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#f15840",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fa4WLHfCk4nReh8DEiv5dbOKs_rrw_SPu5CeoEeXw",
-    "calculated": 398,
-    "timestamp": 1618873965246
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 1608,
-    "buyAskingPrice": 1262,
-    "steamId": "2058522159",
-    "steamAppId": "252490",
-    "name": "Weapon Barrel",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#35a3f1",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Ja5WrMfCk4nReh8DEiv5daMKk6r70yQhaWnmII",
-    "calculated": 346,
-    "timestamp": 1618873965246
-  },
-  {
-    "currency": {
-      "prefixText": "$",
-      "suffixText": "",
-      "cultureName": "en-US",
-      "scale": 2
-    },
-    "buyNowPrice": 2164,
-    "buyAskingPrice": 1746,
-    "steamId": "2049433495",
-    "steamAppId": "252490",
-    "name": "Train Conductor Miner's Hat",
-    "backgroundColour": "#42413e",
-    "foregroundColour": "#a7ec2e",
-    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Fe5GDEfCk4nReh8DEiv5daOq49pb0wQv65U396AnA",
-    "calculated": 418,
-    "timestamp": 1618873965246
+    "timestamp": 1618907342731
   }
 ]
