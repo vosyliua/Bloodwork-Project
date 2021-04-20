@@ -1,0 +1,146 @@
+[
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "last1hrValue": 100,
+    "steamId": "3718442777",
+    "steamAppId": "252490",
+    "name": "Emerald Relic Hatchet",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#f15840",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835BY4GLHfCk4nReh8DEiv5dYPKE6r7I-R_i4oWGsQ0A",
+    "timestamp": 1618800494637
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "last1hrValue": 111,
+    "steamId": "2894624459",
+    "steamAppId": "252490",
+    "name": "Corinthian Door",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#35a3f1",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835FW5GLNfCk4nReh8DEiv5daPKw8rbA2Q_q5PO0rqUc",
+    "timestamp": 1618800494637
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "last1hrValue": 45,
+    "steamId": "2727158083",
+    "steamAppId": "252490",
+    "name": "Hawk Crossbow",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#f15840",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835FY52LEfCk4nReh8DEiv5ddOKw8rrM_Q_m6LTWVUqY",
+    "timestamp": 1618800494637
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "last1hrValue": 88,
+    "steamId": "3186726873",
+    "steamAppId": "252490",
+    "name": "Heart of the Creator",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#f15840",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Bf5mLGfCk4nReh8DEiv5ddOKg9pL03RPG3OJgNv2k",
+    "timestamp": 1618800494637
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "last1hrValue": 100,
+    "steamId": "3462251980",
+    "steamAppId": "252490",
+    "name": "Frostwulf Bed",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#35a3f1",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Bd42LDfCk4nReh8DEiv5dbOKE9qbI-Rfg8KQyw9A",
+    "timestamp": 1618800494637
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "last1hrValue": 87,
+    "steamId": "2801443710",
+    "steamAppId": "252490",
+    "name": "Tiki SAR",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#f15840",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835FZ52LCfCk4nReh8DEiv5dbOqE8qLwySPG99B1g9c0",
+    "timestamp": 1618800494637
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "last1hrValue": 102,
+    "steamId": "3528734174",
+    "steamAppId": "252490",
+    "name": "Mad Rider Crossbow",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#f15840",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Ba52LDfCk4nReh8DEiv5dYP648qbY-RvG7jyR0RPI",
+    "timestamp": 1618800494637
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "last1hrValue": 101,
+    "steamId": "3692235818",
+    "steamAppId": "252490",
+    "name": "Eastern Dragon Furnace",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#35a3f1",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835BY5WLEfCk4nReh8DEiv5daPaw7qbQ-QPC9qt3etQo",
+    "timestamp": 1618800494637
+  },
+  {
+    "currency": {
+      "prefixText": "$",
+      "suffixText": "",
+      "cultureName": "en-US",
+      "scale": 2
+    },
+    "last1hrValue": 115,
+    "steamId": "3322324064",
+    "steamAppId": "252490",
+    "name": "Anarchist SAR",
+    "backgroundColour": "#42413e",
+    "foregroundColour": "#f15840",
+    "iconUrl": "https://steamcommunity-a.akamaihd.net//economy/image/6TMcQ7eX6E0EZl2byXi7vaVKyDk_zQLX05x6eLCFM9neAckxGDf7qU2e2gu64OnAeQ7835Bd5GLDfCk4nReh8DEiv5ddOK4_qbY2R_6_DBL4RYQ",
+    "timestamp": 1618800494637
+  }
+]
